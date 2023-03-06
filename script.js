@@ -1,5 +1,4 @@
 //your code here
-
 function minCostToFormRope(a) {
   a.preventDefault();
   var inputElement = document.querySelector("input").value;
